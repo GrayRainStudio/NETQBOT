@@ -1,0 +1,14 @@
+{
+  "clientType": "WebSocket",
+  "appId": "102793184",
+  "token": "5Rf774tt94wvoupNzUUr46KFnQHJDlfx",
+  "clientSecret": "FSgu9OevCUm5Oi2Ni4RoCazOoEf6Y1Uy",
+  "intents": ["GroupBot"],
+  "gatewayApi": "https://api.bot.qq.com/gateway",
+  "shard": [
+    0,
+    1
+  ],
+  "webHookPort": 8080,
+  "webHookPath": "/qqbot/webhook"
+}
