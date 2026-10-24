@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\bin\x64\Release\net9.0\NETQBOT.Contracts.deps.json
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\bin\x64\Release\net9.0\NETQBOT.Contracts.dll
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\bin\x64\Release\net9.0\NETQBOT.Contracts.pdb
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.dll
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\refint\NETQBOT.Contracts.dll
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\NETQBOT.Contracts.pdb
+C:\Users\Administrator\source\repos\NETQBOT.Contracts\obj\x64\Release\net9.0\ref\NETQBOT.Contracts.dll
