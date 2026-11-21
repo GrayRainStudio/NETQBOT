@@ -2,13 +2,13 @@
 一个基于C#构建的QQ机器人框架，可以使用WebSocket和WebHook进行连接\
 使用QQ官方机器人，不使用第三方框架，所以不会被封
 # 安装
-Windows(Win10/Win Server2019以上):\
- - 1, 点击[下载最新](https://github.com/GrayRainStudio/NETQBOT/releases/latest)然后下载"NETQQBOTv.(版本号).zip"\
- - 2, 解压，建议使用[7zip](https://www.7-zip.org/)\
- - 3, 解压完毕后，进入文件夹，双击"NETQBOT.exe"即可启动，第一次启动会报错，但是这是正常现象，有些人会要求安装.NET 9 按照指引安装就行了。\
- - 4, 在第一次运行完成环境部署后，打开"(运行目录)\NETQQBot\Bot.json",按照要求完成信息填写\
+Windows(Win10/Win Server2019以上):
+ - 1, 点击[下载最新](https://github.com/GrayRainStudio/NETQBOT/releases/latest)然后下载"NETQQBOTv.(版本号).zip"
+ - 2, 解压，建议使用[7zip](https://www.7-zip.org/)
+ - 3, 解压完毕后，进入文件夹，双击"NETQBOT.exe"即可启动，第一次启动会报错，但是这是正常现象，有些人会要求安装.NET 9 按照指引安装就行了。
+ - 4, 在第一次运行完成环境部署后，打开"(运行目录)\NETQQBot\Bot.json",按照要求完成信息填写
  - ![如下图](NETQQBotInfoHint.png)
- - 5, 事件订阅配置, 可看[配置事件](https://github.com/GrayRainStudio/NETQBOT/edit/main/README.md#%E4%BA%8B%E4%BB%B6)\
+ - 5, 事件订阅配置, 可看[配置事件](https://github.com/GrayRainStudio/NETQBOT/edit/main/README.md#%E4%BA%8B%E4%BB%B6)
 然后再次启动"NETQBOT.exe"如果没问题就会显示机器人的名称, 如:\
 ![连接成功](ConnectSuccesed.png)\
 此时你的NETQQBOT就搭建好了，但是没有功能啊，没关系，本仓库提供了插件的编写以及一些API的功能介绍, 如果你不是从事这方面的专家，可以去[插件市场](https://github.com/GrayRainStudio/NETQBot-PluginStores)找到你想要的插件，然后安装\
