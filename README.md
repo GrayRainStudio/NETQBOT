@@ -22,7 +22,7 @@ Plugin类要承接"Plugin<TConfig>"接口，TConfig泛指则填你创建的Confi
 详细的API内容请看[Wiki](https://github.com/GrayRainStudio/NETQBOT/wiki)
 # 事件
 事件是一个非常重要的东西 < = > \
-在"Bot.json"中，你可以更改"intents"的值来修改你的QQ机器人的事件订阅类型，如(可以看[事件类型](https://github.com/GrayRainStudio/NETQBOT/blob/main/NETQBOT.Contracts/API/Enums/Intents.cs)):\
+在"Bot.json"中，你可以更改"intents"的值来修改你的QQ机器人的事件订阅类型，如(可以看[配置事件](https://github.com/GrayRainStudio/NETQBOT/edit/main/README.md#%E4%BA%8B%E4%BB%B6)):\
  - 1, PublicBot -> 公域机器人常用：频道 + 公域消息\
  - 2, GroupBot -> 群聊单聊机器人常用：群聊 + 单聊事件\
  - 3, PrivateBot -> 私域机器人\
