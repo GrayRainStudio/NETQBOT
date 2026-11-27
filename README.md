@@ -8,6 +8,7 @@ Windows(Win10/Win Server2019以上):
  - 3, 解压完毕后，进入文件夹，双击"NETQBOT.exe"即可启动，第一次启动会报错，但是这是正常现象，有些人会要求安装.NET 9 按照指引安装就行了。
  - 4, 在第一次运行完成环境部署后，打开"(运行目录)\NETQQBot\Bot.json",按照要求完成信息填写
  - ![如下图](NETQQBotInfoHint.png)
+ - (配置文件中可以设置"IsScanConnect"的值来更改机器人登陆模式，为true需要用户通过QQ扫码进行登陆，为false则需要用户自行填写机器人的相关信息，然后保存)
  - 5, 事件订阅配置, 可看[配置事件](https://github.com/GrayRainStudio/NETQBOT/edit/main/README.md#%E4%BA%8B%E4%BB%B6)
 然后再次启动"NETQBOT.exe"如果没问题就会显示机器人的名称, 如:\
 ![连接成功](ConnectSuccesed.png)\
